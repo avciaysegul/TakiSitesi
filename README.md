@@ -10,7 +10,7 @@ Proje kapsamında kullanıcıların ürünleri görüntüleyebileceği, ürün d
 
 Proje geliştirme sürecinde yer alan ekip üyeleri:
 	•	Mavlyuda Almazova – [MavlyudaAlmazova](https://github.com/MavlyudaAlmazova)
-	•	Ayşegül Avcı – [aaysegul-avci](https://github.com/aaysegul-avci)
+	•	Ayşegül Avcı – [avciaysegul](https://github.com/avciaysegul)
 
 ---
 
